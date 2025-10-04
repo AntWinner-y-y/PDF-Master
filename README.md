@@ -147,9 +147,8 @@ pytest test_project.py
 - Document encryption/decryption
 - Add eitor page
 
-### acknowledgement
 
-- CS50's online learning platform
+
 
 
 
