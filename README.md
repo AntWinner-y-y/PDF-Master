@@ -144,8 +144,5 @@ pytest test_project.py
 
 - CS50's online learning platform
 
-### Author
 
-CHAN Shing Hau, Anthony
-CS50 Final Project
-31-7-2025 (GMT+8)
+
