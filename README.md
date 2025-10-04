@@ -1,5 +1,12 @@
 # PDF Master
-#### Video Demo: https://youtu.be/9w85Yua9D3s
+#### Demo:
+### ***Viewer***
+<img width="959" height="750" alt="image" src="https://github.com/user-attachments/assets/bc6fc642-4a6d-4ee6-b4e8-4e346c214567" />
+### ***Splitter***
+<img width="957" height="745" alt="image" src="https://github.com/user-attachments/assets/5d94c596-6789-4868-a768-47aa3d1548f0" />
+### ***Merger***
+<img width="953" height="745" alt="image" src="https://github.com/user-attachments/assets/17035981-1aad-4ddf-8adf-3a14529dee91" />
+
 #### Description:
 
 PDF Master is a feature-rich PDF manipulation application built with Python, showcasing advanced GUI programming and PDF processing capabilities. The project consists of several key components working together:
@@ -143,6 +150,7 @@ pytest test_project.py
 ### acknowledgement
 
 - CS50's online learning platform
+
 
 
 
